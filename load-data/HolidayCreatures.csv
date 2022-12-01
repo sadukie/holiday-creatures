@@ -1,0 +1,14 @@
+Name, Description, IsNaughty
+Belsnickel,"A gift-bringer wearing fur and typically depicted as crotchety",false
+Krampus,"A horned figure that scares children who have been naughty",true
+Rudolph,"A red-nosed reindeer who leads Santa's sleigh", false
+Frau Perchta, "A Christmas witch who leaves silver coins for the good or replaces your abdomen organs with straw",true
+Frosty the Snowman,"A snowman with a corncob pipe and a button nose and two eyes made out of coal. Frosty bestows magic on a village.", false
+Joulupukki,"The Yule Goat, a character in Finnish Christmas traditions that rides in a pulkka with led by reindeer that do not fly.",false
+Ded Moroz,"A legendary figure that wears a full-length fur couat, fur hat, and felt boots. He brings presents to good children throughout the month.",false
+Snegurochka, "The Snow Maiden, Ded Moroz' granddaughter and helper",false
+Baba Yaga, "A ferocious woman who steals presents from children, commonly fought by Ded Moroz and Snegurochka",true
+Mari Lwyd, "A horse figure that travels with wassailing groups in Wales and has a team as part of the pwnco. The Mari singing team brings good luck if they win and are let in where they are wassailing.",false
+The Lutins, "They assist Père Noël in delivering the holiday spirit",false
+The Elves, "The elves live with Santa Claus and act as his helper.",false
+Père Noël / Santa Claus, "A legendary person that brings gifts at christmas to those who have been good",false

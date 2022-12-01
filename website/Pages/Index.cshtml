@@ -1,0 +1,32 @@
+﻿@page
+@using Secure_Credentials_For_Advent
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+<style>
+    th, td {
+        text-align: left;
+    }
+</style>
+<div class="text-center">
+    <h1 class="display-4">Holiday Creatures</h1>
+    <p>Coming soon - holiday creatures stored in Azure Cosmos DB.</p>
+    <hr />
+    <table>
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Description</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (Creature creature in Model.Creatures){
+                <tr>
+                    <td>@creature.Name</td>
+                    <td>@creature.Description</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

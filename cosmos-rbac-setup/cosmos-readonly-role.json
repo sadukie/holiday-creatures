@@ -1,0 +1,14 @@
+// 0ed7c2bb-69c5-496e-a0c8-c6c3e9766db2
+{
+    "RoleName": "MyReadOnlyRole",
+    "Type": "CustomRole",
+    "AssignableScopes": ["/"],
+    "Permissions": [{
+        "DataActions": [
+            "Microsoft.DocumentDB/databaseAccounts/readMetadata",
+            "Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/items/read",
+            "Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/executeQuery",
+            "Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/readChangeFeed"
+        ]
+    }]
+}
