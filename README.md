@@ -4,7 +4,7 @@ In this series of posts and videos, we will look at loading Azure Cosmos DB for 
 
 ![Diagram of the layout accomplished in this series - a console application writes to Azure Cosmos DB with read-write access for an Azure CLI credential. An ASP.NET web application reads the data from Azure Cosmos DB. It uses the Azure CLI credentials when running locally. When in Azure App Service, it uses the Managed Identity credential, which has read-only access to the database. The C# logo and Festive Tech Calendar 2022 logo are included.](architecture.png)
 
-## Prerequisite
+## Prerequisites
 
 You need:
 
