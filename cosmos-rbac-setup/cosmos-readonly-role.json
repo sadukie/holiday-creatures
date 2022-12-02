@@ -1,5 +1,5 @@
 {
-    "RoleName": "MyReadOnlyRole",
+    "RoleName": "CosmosDBDataReader",
     "Type": "CustomRole",
     "AssignableScopes": ["/"],
     "Permissions": [{
